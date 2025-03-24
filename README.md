@@ -7,4 +7,4 @@
 * Tengo 26 materias aprobadas de la carrera LGTI.
 * Los lenguajes que aprendí son C, C# y javascript.
 * Edad: 22
-* Me gusta el basquet y los videojuegosa.
+* Me gusta el basquet y los videojuegos.
