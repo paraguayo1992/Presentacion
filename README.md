@@ -1,4 +1,4 @@
-<h1 align="center"> Gonzalo Nahhuel Arizza </h1>
+<h1 align="center"> Gonzalo Nahuel Arizza </h1>
 <h2> Datos personales </h2>
 
 
